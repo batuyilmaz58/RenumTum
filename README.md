@@ -98,7 +98,7 @@ opencv-python
 
 ![UI_predict_1](/uı_predict/UI_Predict_1.png)
 ![UI_predict_2](/uı_predict/UI_Predict_2.png)
-![UI_predict_3](/uı_predict/UI_Predict_3.png)
+![UI_predict_3](/uı_predict/UI_predict_3.png)
 
 ## 🤝 Katkıda Bulunma
 
